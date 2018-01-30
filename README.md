@@ -12,11 +12,12 @@ DataX 是异构数据广泛使用的离线数据同步工具/平台，实现包�
 
 DataX本身作为数据同步框架，将不同数据源的同步抽象为从源头数据源读取数据的Reader插件，以及向目标端写入数据的Writer插件，理论上DataX框架可以支持任意数据源类型的数据同步工作。同时DataX插件体系作为一套生态系统, 每接入一套新数据源该新加入的数据源即可实现和现有的数据源互通。
 
+![DataX-OpenSource-DingTalk](https://github.com/Arvin-Mark/DataX-src/blob/master/images/DataX-Framework.png)
 
 
 # Quick Start
 
-##### Download [Datax-bin下载地址](https://github.com/Arvin-Mark/datax-bin/archive/master.zip)
+##### Download [Datax-bin下载地址](https://codeload.github.com/Arvin-Mark/datax-bin/zip/master)
 
 ##### 请点击：[Quick Start](https://github.com/Arvin-Mark/DataX-src/blob/master/userGuid.md)
 

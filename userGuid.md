@@ -59,6 +59,7 @@
   * 第一步、创建创业的配置文件（json格式）
 
     可以通过命令查看配置模板： python datax.py -r {YOUR_READER} -w {YOUR_WRITER}
+
     例如：python datax.py -r streamreader -w streamwriter
 
     ``` shell
@@ -67,10 +68,10 @@
     DataX (UNKNOWN_DATAX_VERSION), From Alibaba !
     Copyright (C) 2010-2015, Alibaba Group. All Rights Reserved.
     Please refer to the streamreader document:
-        https://github.com/Arvin-Mark/DataX/blob/master/streamreader/doc/streamreader.md
+        * [https://github.com/Arvin-Mark/DataX-src/blob/master/streamreader/doc/streamreader.md](https://github.com/Arvin-Mark/DataX-src/blob/master/streamreader/doc/streamreader.md)
 
     Please refer to the streamwriter document:
-         https://github.com/Arvin-Mark/DataX/blob/master/streamwriter/doc/streamwriter.md
+        * [https://github.com/Arvin-Mark/DataX-src/blob/master/streamwriter/doc/streamwriter.md](https://github.com/Arvin-Mark/DataX-src/blob/master/streamwriter/doc/streamwriter.md)
 
     Please save the following configuration as a json file and  use
          python {DATAX_HOME}/bin/datax.py {JSON_FILE_NAME}.json
@@ -181,8 +182,8 @@
 
 **RDBMS 关系型数据库**
 
-* [MysqlReader](https://github.com/Arvin-Mark/DataX/blob/master/mysqlreader/doc/mysqlreader.md): 使用JDBC批量抽取Mysql数据集。
-* [OracleReader](https://github.com/Arvin-Mark/DataX/blob/master/oraclereader/doc/oraclereader.md): 使用JDBC批量抽取Oracle数据集。
+* [MysqlReader](https://github.com/Arvin-Mark/DataX-src/blob/master/mysqlreader/doc/mysqlreader.md): 使用JDBC批量抽取Mysql数据集。
+* [OracleReader](https://github.com/Arvin-Mark/DataX-src/blob/master/oraclereader/doc/oraclereader.md): 使用JDBC批量抽取Oracle数据集。
 * [SqlServerReader](https://github.com/Arvin-Mark/DataX-src/blob/master/sqlserverreader/doc/sqlserverreader.md): 使用JDBC批量抽取SqlServer数据集
 * [PostgresqlReader](https://github.com/Arvin-Mark/DataX-src/blob/master/postgresqlreader/doc/postgresqlreader.md): 使用JDBC批量抽取PostgreSQL数据集
 * [DrdsReader](https://github.com/Arvin-Mark/DataX-src/blob/master/drdsreader/doc/drdsreader.md): 针对公有云上DRDS的批量数据抽取工具。
