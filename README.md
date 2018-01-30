@@ -16,9 +16,9 @@ DataX本身作为数据同步框架，将不同数据源的同步抽象为从源
 
 # Quick Start
 
-##### Download [Datax-bin下载地址](https://github.com//Arvin-Mark/datax-bin/archive/master.zip)
+##### Download [Datax-bin下载地址](https://github.com/Arvin-Mark/datax-bin/archive/master.zip)
 
-##### 请点击：[Quick Start](https://github.com/Arvin-Mark/datax-bin/blob/master/userGuid.md)
+##### 请点击：[Quick Start](https://github.com/Arvin-Mark/DataX-src/blob/master/userGuid.md)
 
 
 
@@ -95,6 +95,6 @@ DataX目前已经有了比较全面的插件体系，主流的RDBMS数据库、N
 
 钉钉&微信扫描以下二维码加入交流群：
 
-![DataX-OpenSource-DingTalk](https://github.com/Arvin-Mark/DataX-src/images/DataX-DingTalk.png)
+![DataX-OpenSource-DingTalk](https://github.com/Arvin-Mark/DataX-src/blob/master/images/DataX-DingTalk.png)
 
-![DataX-OpenSource-WeChat](https://github.com/Arvin-Mark/DataX-src/images/DataX-WeChat.png)
+![DataX-OpenSource-WeChat](https://github.com/Arvin-Mark/DataX-src/blob/master/images/DataX-WeChat.png)
