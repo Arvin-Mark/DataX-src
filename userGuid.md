@@ -68,10 +68,10 @@
     DataX (UNKNOWN_DATAX_VERSION), From Alibaba !
     Copyright (C) 2010-2015, Alibaba Group. All Rights Reserved.
     Please refer to the streamreader document:
-        * [https://github.com/Arvin-Mark/DataX-src/blob/master/streamreader/doc/streamreader.md](https://github.com/Arvin-Mark/DataX-src/blob/master/streamreader/doc/streamreader.md)
+        * [streamreader.md](https://github.com/Arvin-Mark/DataX-src/blob/master/streamreader/doc/streamreader.md)
 
     Please refer to the streamwriter document:
-        * [https://github.com/Arvin-Mark/DataX-src/blob/master/streamwriter/doc/streamwriter.md](https://github.com/Arvin-Mark/DataX-src/blob/master/streamwriter/doc/streamwriter.md)
+        * [streamwriter.md](https://github.com/Arvin-Mark/DataX-src/blob/master/streamwriter/doc/streamwriter.md)
 
     Please save the following configuration as a json file and  use
          python {DATAX_HOME}/bin/datax.py {JSON_FILE_NAME}.json
